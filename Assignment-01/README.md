@@ -72,8 +72,13 @@ Output
 
 ![Assignment 01](1780907267_0_h55oyboi.png)
 
+
 ---
 
 ## 👩‍💻 Author
 
 **Mariam Kamran**
+
+## 🖼️ Assignment Preview
+
+![Assignment 01](https://res.cloudinary.com/saylani-welfare/image/upload/v1780907268/assignment/assignment/1780907267_0_h55oyboi.png)
