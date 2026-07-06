@@ -68,9 +68,6 @@ Output
 
 ---
 
-## 🖼️ Assignment Preview
-
-![Assignment 01](1780907267_0_h55oyboi.png)
 
 
 ---
@@ -82,3 +79,4 @@ Output
 ## 🖼️ Assignment Preview
 
 ![Assignment 01](https://res.cloudinary.com/saylani-welfare/image/upload/v1780907268/assignment/assignment/1780907267_0_h55oyboi.png)
+This is my first Python assignment, introducing the basic concepts of programming and Python.
